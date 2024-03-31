@@ -7,7 +7,7 @@ nav: true
 exclude: true
 ---
 
-**Last updated: 8 June 2022**
+**Last updated: 31 Mar 2024**
 
 This Privacy Policy outlines how I collect and use your data while you are on this website.
 
@@ -20,19 +20,18 @@ I do not want to collect your personal data. However, in this age of [surveillan
 2. This website is served around the world through the [Cloudflare](https://cloudflare.com) content delivery network. Cloudflare may log your IP address and other information for maintenance and security purposes.
   - I do not (and cannot) access this data.
   - Cloudflare is [GDPR-compliant](https://www.cloudflare.com/trust-hub/gdpr/). For more details, see their [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
-3. I use [Plausible](https://plausible.io) as a cookieless, privacy-first web analytics service. They log your access information ([excluding your IP address](https://plausible.io/docs/excluding)) to provide me with said service.
-  - Plausible is [GDPR-compliant](https://plausible.io/data-policy#gdpr-ccpa-and-pecr-compliant-web-analytics). For more details, see their [Privacy Policy](https://plausible.io/data-policy).
+3. I use [GoatCounter](https://www.goatcounter.com/) as a cookieless, open-source, privacy-first web analytics service. They log your access information to provide me with said service.
+  - GoatCounter is [GDPR-compliant](https://www.goatcounter.com/help/gdpr). For more details, see their [Privacy Policy](https://www.goatcounter.com/help/privacy).
   
 ### How I use your data
 
 __To perform simple analytics__
 
-I use Plausible's web analytics tool to understand my audience, e.g., how are people discovering this website? Where are they from?
+I use GoatCounter's web analytics tool to understand my audience, e.g., how are people discovering this website? Where are they from?
 
-I do not wish to track you, or even collect data that allows me to track you. Thus the choice of Plausible: unlike other web analytics tools, Plausible does not download cookies or other files to your devices, and gives me access only to aggregated metrics. Indeed, this website uses no cookies or trackers or any sort.
+I do not wish to track you, or even collect data that allows me to track you. Thus the choice of GoatCounter: unlike other web analytics tools, GoatCounter does not download cookies or other files to your devices, and gives me access only to aggregated metrics. Indeed, this website uses no cookies or trackers or any sort.
 
 ### Links
-
 When you click on links on this website, you may be directed to a third-party website or application, at which point this Policy no longer applies.
 
 ### Changes to this Policy

@@ -4,4 +4,3 @@ New pages under consideration:
 - `/translations`
 - `/econs` or `/metrics`
 - `/workshops`
-- `/contact`

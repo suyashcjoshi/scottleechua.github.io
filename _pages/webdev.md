@@ -20,7 +20,7 @@ Occasionally, I develop small websites for friends and colleagues:
 
 **Editor interface.** Ghost has its own delightful editor interface. For Jekyll, I've started using [TinaCMS](https://tina.io/), which cleverly generates a Wordpress-esque editor interface for static sites right in the browser.
 
-**Monitoring.** I use [Plausible](https://plausible.io/) for ethical, privacy-minded analytics, and [Betterstack](https://betterstack.com/)'s free tier for uptime checks.
+**Monitoring.** I use [GoatCounter](https://www.goatcounter.com/) for open-source, privacy-minded analytics, and [Betterstack](https://betterstack.com/)'s free tier for uptime checks.
 
 #### resources
 

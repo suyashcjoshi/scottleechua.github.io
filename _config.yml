@@ -60,8 +60,6 @@ mastodon_profile: https://mastodon.social/@scottleechua
 
 contact_note: # > You can even add a little note about which of these is the best way to reach you.
 
-plausible_analytics_domain: scottleechua.com
-
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -188,7 +186,7 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_plausible_analytics: true
+enable_goatcounter: true
 enable_mastodon_linkback:   true
 enable_masonry:             true
 enable_math:                true

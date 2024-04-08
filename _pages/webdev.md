@@ -9,6 +9,7 @@ exclude: true
 
 Occasionally, I develop small websites for friends and colleagues:
 
+- [`dunnodowhat.com`](https://dunnodowhat.com) --- newsletter of free / indie events in Singapore
 - [`myleyantay.com`](https://myleyantay.com) --- movie review blog
 - [`andasproductions.com`](https://andasproductions.com) --- a project showcase
 - [`lawrenceypil.com`](https://lawrenceypil.com) --- a writer's portfolio

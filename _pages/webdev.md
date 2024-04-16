@@ -9,10 +9,10 @@ exclude: true
 
 Occasionally, I develop small websites for friends and colleagues:
 
-- [`dunnodowhat.com`](https://dunnodowhat.com) --- newsletter of free / indie events in Singapore
-- [`myleyantay.com`](https://myleyantay.com) --- movie review blog
 - [`andasproductions.com`](https://andasproductions.com) --- a project showcase
+- [`dunnodowhat.com`](https://dunnodowhat.com) --- newsletter of free / indie events in Singapore
 - [`lawrenceypil.com`](https://lawrenceypil.com) --- a writer's portfolio
+- [`myleyantay.com`](https://myleyantay.com) --- movie review blog
 - [`yamsmusic.com`](https://yamsmusic.com) --- a musician's page
 
 #### tech stack
@@ -32,7 +32,7 @@ Occasionally, I develop small websites for friends and colleagues:
 
 A huge thank you to:
 
-- [@umang_io](https://www.fiverr.com/umang_io) for his help customizing Ghost themes for [`yamsmusic.com`](https://yamsmusic.com) and [`myleyantay.com`](https://myleyantay.com)
+- [@umang_io](https://www.fiverr.com/umang_io) for his help customizing Ghost themes for [`yamsmusic.com`](https://yamsmusic.com), [`myleyantay.com`](https://myleyantay.com), and [`dunnodowhat.com`](https://dunnodowhat.com)
 - [@nirob_19](https://www.fiverr.com/nirob_19) for his help fixing the CSS for [`lawrenceypil.com`](https://lawrenceypil.com)
 - [@chiradip_b](https://www.fiverr.com/chiradip_b) for his help writing alt text for [`scottleechua.com`](/)
 

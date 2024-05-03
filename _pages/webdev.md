@@ -10,6 +10,7 @@ exclude: true
 Occasionally, I develop small websites for friends and colleagues:
 
 - [`andasproductions.com`](https://andasproductions.com) --- a project showcase
+- [`blog.biancalesaca.com`](https://blog.biancalesaca.com) --- an art process blog
 - [`dunnodowhat.com`](https://dunnodowhat.com) --- newsletter of free / indie events in Singapore
 - [`lawrenceypil.com`](https://lawrenceypil.com) --- a writer's portfolio
 - [`myleyantay.com`](https://myleyantay.com) --- movie review blog

@@ -64,7 +64,7 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
    - Name: `ghost-blog-budget`
    - Time range: `Monthly`
    - Budget type: `Specified amount`
-   - Target amount: `2.00` (in SGD)
+   - Target amount: `1.00` (in USD/SGD)
    - Manage notifications: `Email alerts to billing admins and users`
 
 #### Initialize Compute Engine
@@ -78,7 +78,7 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
    - Machine type: `e2-micro (2vCPU, 1GB memory)`
    - Boot disk:
       - Operating system: `Ubuntu`
-      - Version: `Ubuntu 22.04 LTS`
+      - Version: `Ubuntu 22.04 LTS x86/64`
       - Boot disk type: `Standard persistent disk`
    - Firewall:
       - `Allow HTTP traffic`

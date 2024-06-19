@@ -46,7 +46,7 @@ Posters courtesy of the Yale-NUS College Writers' Centre.
 
 In February 2021, I was invited back to my alma mater to run a workshop as part of their Comics and Zines Fest. The goal was to teach aspiring comic writers the basic elements of sequential storytelling, so that they could better articulate why a comic is (or isn't) working, and improve their craft in a more systematic way.
 
-Zoom is wonderful for many things, but free-flowing discussion is not one of them. So I asked participants to pre-read some comic excerpts and respond to them however they like, as articulately as they could. I then synthesize their responses into a guided close reading of sorts for the workshop session itself --- see what we cooked up [here](https://scottleechua.s3.us-east-1.amazonaws.com/page1_panel1_workshop_scottleechua.pdf).
+Zoom is wonderful for many things, but free-flowing discussion is not one of them. So I asked participants to pre-read some comic excerpts and respond to them however they like, as articulately as they could. I then synthesize their responses into a guided close reading of sorts for the workshop session itself --- see what we cooked up [here](https://d48rdc2gjiluz.cloudfront.net/page1_panel1_workshop_scottleechua.pdf).
 
 ---
 
@@ -59,4 +59,4 @@ Xavier School, 2018
 </figure>
 </div>
 
-In March 2018, I gave a talk to the eighth-grade students of Xavier School (my other alma mater!) together with Lio Mangubat, editor-in-chief of Summit Books and the publisher of *Doorkeeper*. We had a great time talking about our favorite comics, the publishing process, and the false dichotomy between "highbrow" and "lowbrow" entertainment --- see our slides [here](https://scottleechua.s3.us-east-1.amazonaws.com/xavier_comic_conference_scottleechua.pdf).
+In March 2018, I gave a talk to the eighth-grade students of Xavier School (my other alma mater!) together with Lio Mangubat, editor-in-chief of Summit Books and the publisher of *Doorkeeper*. We had a great time talking about our favorite comics, the publishing process, and the false dichotomy between "highbrow" and "lowbrow" entertainment --- see our slides [here](https://d48rdc2gjiluz.cloudfront.net/xavier_comic_conference_scottleechua.pdf).

@@ -13,7 +13,7 @@ nav_order: 2
 </figure>
 </div>
 
-My short story ***Margarita*** --- [read it here](https://scottleechua.s3.us-east-1.amazonaws.com/margarita_scottleechua.pdf) --- was first published in the *[Philippines Graphic](https://philippinesgraphic.com.ph/)* in 2017, and placed second in the [Nick Joaquin Literary Awards](https://philippinesgraphic.com.ph/2017/09/14/millennials-bring-home-the-bacon-at-2017-njla/) that same year.
+My short story ***Margarita*** --- [read it here](https://d48rdc2gjiluz.cloudfront.net/margarita_scottleechua.pdf) --- was first published in the *[Philippines Graphic](https://philippinesgraphic.com.ph/)* in 2017, and placed second in the [Nick Joaquin Literary Awards](https://philippinesgraphic.com.ph/2017/09/14/millennials-bring-home-the-bacon-at-2017-njla/) that same year.
 
 <div style="font-size: 0.8rem; text-align: right;">
 <i>Reproduced with the kind permission of the Philippines Graphic.</i>

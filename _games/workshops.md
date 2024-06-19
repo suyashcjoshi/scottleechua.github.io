@@ -25,7 +25,7 @@ Posters courtesy of The Substation.
 
 In November 2016, I taught escape room design for [The Substation's](https://www.substation.org/) *School of Uncommon Knowledge,* a wonderful workshop series that ran on a barter system --- the price of admission to my workshop was one pre-loved book. :smile:
 
-The goal of the workshop was to teach participants a basic framework of escape room design, before guiding them through designing their own escape rooms on the spot --- see my slides [here](https://scottleechua.s3.us-east-1.amazonaws.com/how_to_design_an_escape_room_scottleechua.pdf).
+The goal of the workshop was to teach participants a basic framework of escape room design, before guiding them through designing their own escape rooms on the spot --- see my slides [here](https://d48rdc2gjiluz.cloudfront.net/how_to_design_an_escape_room_scottleechua.pdf).
 
 I wasn't sure how many people in Singapore were interested in such an esoteric subject, so I was pleasantly surprised when more than 20 participants showed up --- on a Tuesday night, at that! Some were artists and designers, but the vast majority were teachers looking to use puzzles in the classroom. I had a wonderful time creating puzzles together with the participants.
 

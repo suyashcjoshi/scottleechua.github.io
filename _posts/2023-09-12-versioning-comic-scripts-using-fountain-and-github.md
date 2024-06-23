@@ -132,7 +132,7 @@ ALYSSA
           contents: write
         steps:
           - name: Check out repo
-            uses: actions/checkout@v3
+            uses: actions/checkout@v4
             
           - name: Set up Bun package manager
             uses: oven-sh/setup-bun@v1
@@ -192,6 +192,8 @@ Your collaborators can also view the latest PDFs by viewing the repo on GitHub, 
 This walkthrough last worked for me in **September 2023**. If you spot errors, vulnerabilities, or potential improvements, please do [open a pull request](https://github.com/scottleechua/scottleechua.github.io/blob/source/_posts/2023-09-12-versioning-comic-scripts-using-fountain-and-github.md) on this blog post!
 
 ## Changelog
+
+- **2024-06-23**: Update GitHub Action `checkout@v3` to `v4`.
 
 - **2023-09-12**: Update `fountain_to_pdf.yml` to automatically find and convert all Fountain files in the repo. Thanks to [Steven Jay Cohen](https://stevenjaycohen.com/) for the feature request!
 

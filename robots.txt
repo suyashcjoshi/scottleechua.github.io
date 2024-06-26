@@ -27,4 +27,4 @@ User-agent: PerplexityBot
 User-agent: YouBot
 Disallow: /
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml

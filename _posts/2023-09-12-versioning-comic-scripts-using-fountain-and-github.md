@@ -8,7 +8,7 @@ og_image: comic-script-diagram.png
 twitter_large_image: true
 ---
 
-<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/comic-script-diagram.png" alt="A flowchart. Fountain, working file format. Right directed arrow. A grey box entitled github. Inside the box, after writing, automated file conversion. Right directed arrow. Adobe PDF, output file format.">
+<img class="img-fluid rounded" src="/assets/img/comic-script-diagram.png" alt="A flowchart. Fountain, working file format. Right directed arrow. A grey box entitled github. Inside the box, after writing, automated file conversion. Right directed arrow. Adobe PDF, output file format.">
 
 [I'm sold on this workflow, jump to the tutorial!](#setup)
 
@@ -34,7 +34,7 @@ Requirement (1) is satisfied because Fountain files are plaintext, and thus comp
 
 When all is said and done, the repo looks something like this:
 
-<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/comic-script-repo.png" alt="Screenshot of a github repository with two folders and seven files. There are three columns. Column one shows the names of the contents. The two folders are dot github slash workflows, and pdf. The seven files are dot gitignore, readme dot markdown, config dot json, and four dot fountain files labeled K1 through K4. Column two lists the commit messages. Column three shows the commit dates. The header reads, scottleechua and github actions bot, apply automatic changes, twenty hours ago, forty nine commits.">
+<img class="img-fluid rounded" src="/assets/img/comic-script-repo.png" alt="Screenshot of a github repository with two folders and seven files. There are three columns. Column one shows the names of the contents. The two folders are dot github slash workflows, and pdf. The seven files are dot gitignore, readme dot markdown, config dot json, and four dot fountain files labeled K1 through K4. Column two lists the commit messages. Column three shows the commit dates. The header reads, scottleechua and github actions bot, apply automatic changes, twenty hours ago, forty nine commits.">
 
 ## Why use Fountain?
 Fountain is a formatting convention for writing scriptlike documents. Here is a comic script written in Fountain:
@@ -56,7 +56,7 @@ ALYSSA
 
 **Fountain exports to the usual file formats.** While plaintext Fountain already looks rather "script-like," free converter software can parse the special formatting rules[^3] into a nicely-rendered PDF:
 
-<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/comic-script-exported-pdf.png" alt="Screenshot containing the formatted version of the comic script above.">
+<img class="img-fluid rounded" src="/assets/img/comic-script-exported-pdf.png" alt="Screenshot containing the formatted version of the comic script above.">
 
 (If you must, Fountain also exports nicely to Final Draft.)
 
@@ -180,11 +180,11 @@ If you don't want [merge conflicts](https://happygitwithr.com/pull-tricky.html) 
 ## Congratulations!
 At this point, the workflow has been set up and you know how to update your scripts. Now your collaborators can see the latest edits for a given file by clicking on its latest commit:[^5]
 
-<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/comic-script-click-commit.png" alt="Screenshot of the same github repository as above, with two folders and seven files. There are three columns. Column one shows the names of the contents. The two folders are dot github slash workflows, and pdf. The seven files are dot gitignore, readme dot markdown, config dot json, and four dot fountain files labeled K1 through K4. Column two lists the commit messages. Column three shows the commit dates. The commit message of file K1 dot fountain is highlighted. It reads, major draft K4, minor drafts K1, K2, K3.">
+<img class="img-fluid rounded" src="/assets/img/comic-script-click-commit.png" alt="Screenshot of the same github repository as above, with two folders and seven files. There are three columns. Column one shows the names of the contents. The two folders are dot github slash workflows, and pdf. The seven files are dot gitignore, readme dot markdown, config dot json, and four dot fountain files labeled K1 through K4. Column two lists the commit messages. Column three shows the commit dates. The commit message of file K1 dot fountain is highlighted. It reads, major draft K4, minor drafts K1, K2, K3.">
 
 which leads them to a page with line-by-line comparisons:
 
-<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/comic-script-diff.png" alt="Screenshot of the diff file for K1 dot fountain. The commit message reads major draft K4, minor updates K1, K2, K3. Below the commit message, it says, showing 4 changed files, with 218 additions and 205 deletions. Below that, it shows the details of the changes in the file.">
+<img class="img-fluid rounded" src="/assets/img/comic-script-diff.png" alt="Screenshot of the diff file for K1 dot fountain. The commit message reads major draft K4, minor updates K1, K2, K3. Below the commit message, it says, showing 4 changed files, with 218 additions and 205 deletions. Below that, it shows the details of the changes in the file.">
 
 Your collaborators can also view the latest PDFs by viewing the repo on GitHub, or by pulling the latest changes to their local repo.
 

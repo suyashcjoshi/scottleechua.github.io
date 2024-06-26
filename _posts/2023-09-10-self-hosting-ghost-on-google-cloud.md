@@ -8,7 +8,7 @@ og_image: ghost-google-cloud-diagram.png
 twitter_large_image: true
 ---
 
-<img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/ghost-google-cloud-diagram.png" alt="A flowchart. Engine X web server and ghost blog engine. A right directed arrow toward a grey box entitled google cloud. Inside the grey box, compute engine. Right directed arrow. Static IP address. Right directed arrow. Cloud flare content delivery network. From above the grey box, name cheap, domain registrar. Below directed arrow. Static IP address. From above cloud flare, mail provider mail gun. Below directed arrow. Cloud flare, content delivery network. Right directed arrow. Blog and newsletter.">
+<img class="img-fluid rounded" src="/assets/img/ghost-google-cloud-diagram.png" alt="A flowchart. Engine X web server and ghost blog engine. A right directed arrow toward a grey box entitled google cloud. Inside the grey box, compute engine. Right directed arrow. Static IP address. Right directed arrow. Cloud flare content delivery network. From above the grey box, name cheap, domain registrar. Below directed arrow. Static IP address. From above cloud flare, mail provider mail gun. Below directed arrow. Cloud flare, content delivery network. Right directed arrow. Blog and newsletter.">
 
 [I'm sold on this stack, jump to the walkthrough!](#overview)
 

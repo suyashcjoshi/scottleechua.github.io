@@ -650,6 +650,16 @@ performance_schema=0
     <p>If you chose to set up your Mailgun in the EU, set <code class="language-plaintext highlighter-rouge">"host"</code> to <code class="language-plaintext highlighter-rouge">"smtp.eu.mailgun.org"</code> instead.</p>
   </li>
   <li>
+    <p><em>(optional)</em> If you don’t plan to use search on your website, add this to <code class="language-plaintext highlighter-rouge">config.production.json</code>:</p>
+
+    <div class="language-json highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code><span class="nl">"sodoSearch"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="nl">"url"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div>    </div>
+    <p>to make your website load faster.</p>
+  </li>
+  <li>
     <p>Restart Ghost for the config to take effect:</p>
 
     <div class="language-bash highlighter-rouge">
@@ -779,6 +789,9 @@ ghost <span class="nb">ls</span>
 <h2 id="changelog">Changelog</h2>
 
 <ul>
+  <li>
+    <p><strong>2024-07-24</strong>: Add step to disable <a href="https://ghost.org/docs/config?via=cathy45&amp;ref=spectralwebservices.com#search" target="_blank" rel="noopener">sodoSearch</a> and <a href="https://forum.ghost.org/t/is-it-possible-to-disable-jsdelivr-cdn/31761" target="_blank" rel="noopener">improve page load times</a>.</p>
+  </li>
   <li>
     <p><strong>2023-12-30</strong>: Simplify creation process of <code class="language-plaintext highlighter-rouge">service_account</code> user.</p>
   </li>

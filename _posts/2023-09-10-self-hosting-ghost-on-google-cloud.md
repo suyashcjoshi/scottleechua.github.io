@@ -364,7 +364,16 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
     
    If you chose to set up your Mailgun in the EU, set `"host"` to `"smtp.eu.mailgun.org"` instead.
 
-2. Restart Ghost for the config to take effect:
+2. *(optional)* If you don't plan to use search on your website, add this to `config.production.json`:
+
+   ```json
+   "sodoSearch": {
+     "url": false
+   },
+   ```
+   to make your website load faster.
+
+3. Restart Ghost for the config to take effect:
 
    ```bash
    ghost restart
@@ -462,6 +471,8 @@ At this point you should have a working self-hosted Ghost blog. Updates aside, y
 This walkthrough last worked for me in **September 2023**. If you spot errors, vulnerabilities, or potential improvements, please do [open a pull request](https://github.com/scottleechua/scottleechua.github.io/blob/source/_posts/2023-09-10-self-hosting-ghost-on-google-cloud.md) on this blog post!
 
 ## Changelog
+
+- **2024-07-24**: Add step to disable [sodoSearch](https://ghost.org/docs/config?via=cathy45&ref=spectralwebservices.com#search) and [improve page load times](https://forum.ghost.org/t/is-it-possible-to-disable-jsdelivr-cdn/31761).
 
 - **2023-12-30**: Simplify creation process of `service_account` user.
 

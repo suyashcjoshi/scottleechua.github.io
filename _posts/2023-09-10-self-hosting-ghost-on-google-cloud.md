@@ -80,6 +80,7 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
       - Operating system: `Ubuntu`
       - Version: `Ubuntu 22.04 LTS x86/64`
       - Boot disk type: `Standard persistent disk`
+   - Access scopes: `Allow full access to all Cloud APIs`
    - Firewall:
       - `Allow HTTP traffic`
       - `Allow HTTPS traffic`
@@ -191,7 +192,7 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
    sudo npm install -g npm@latest
    ```
 
-3. Install MySQL:
+3. Install [MySQL](https://ghost.org/docs/install/ubuntu/#install-mysql):
 
    ```bash
    sudo apt install -y mysql-server
@@ -213,7 +214,7 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
 
    ```bash
    sudo systemctl set-environment MYSQLD_OPTS="--skip-networking --skip-grant-tables"
-   sudo systemctl start mysql.service
+   sudo /etc/init.d/mysql start
    sudo mysql -u root
    ```
 

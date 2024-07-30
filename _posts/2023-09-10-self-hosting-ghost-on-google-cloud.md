@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Self-hosting Ghost on Google Cloud
-date:   2023-09-10
+date:   2024-07-30
 description: A plaintext walkthrough of deploying an almost-free, fully self-hosted Ghost blog on Google Cloud.
 categories: walkthrough, website, cloud
 og_image: ghost-google-cloud-diagram.png
@@ -80,6 +80,7 @@ The whole thing takes 1-2 hours depending on your comfort level with the various
       - Operating system: `Ubuntu`
       - Version: `Ubuntu 22.04 LTS x86/64`
       - Boot disk type: `Standard persistent disk`
+      - Size: `30 GB`
    - Firewall:
       - `Allow HTTP traffic`
       - `Allow HTTPS traffic`
